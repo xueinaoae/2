@@ -1,0 +1,1 @@
+cd ..&& cd build && cmake ..&& make &&./detect_lights
