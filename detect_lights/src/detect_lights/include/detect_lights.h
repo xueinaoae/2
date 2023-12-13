@@ -144,6 +144,7 @@ public:
  *@param: 
  */
     void Run();
+
     void DrawArmor();
 public:
     cv::Mat trackled_image;
